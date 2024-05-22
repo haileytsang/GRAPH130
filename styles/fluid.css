@@ -60,10 +60,9 @@ section {
     box-sizing:border-box;
 }
 .hero {
-    background-image: url(../images/water6.jpg);
+    /* background-image: url(../images/water6.jpg); */
     border-top-right-radius: 2em;
 }
 .hero p {
-    width: 50%;
-
+    width: 90%;
 }
