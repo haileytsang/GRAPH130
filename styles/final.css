@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    color: #344e5f;
+}
+
+header h1 {
+    text-align:center;
+    padding:10px;
+}
+
+body {
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}
